@@ -1,10 +1,17 @@
 body {
-    background-color: #e0b4b4;
+    background-color: 	#fde4f2;
 }
 nav{
     background: transparent;
 }
 
-.btn-large {
-    color:blueviolet;
+img {
+    border-radius: 10% 100% / 120%;
+    width: 260px;
+    height: 260px;
+    float: right;
+    border: 5px solid #00fff3;
+} 
+.brand-logo {
+    margin-left: 20px;
 }
